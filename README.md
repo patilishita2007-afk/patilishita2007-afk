@@ -1,30 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm **Ishita Patil**  
+### *A Tech Explorer & Problem Solver 🚀💡*
 
-<!--
-**patilishita2007-afk/patilishita2007-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ishitapatil0595) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishitapatil323@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patilishita2007-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=patilishita2007-afk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patilishita2007-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub space! I love exploring new technologies, solving real-world problems, and building creative digital experiences.  
+Currently, I’m leveling up my skills in **Figma** and **Flutter Development** to design and develop modern, user-focused applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=patilishita2007-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Here are some ideas to get you started:
+## 💫 **About Me**
+- 🌱 Currently learning **Flutter** & **Figma**  
+- 💡 Passionate about tech, innovation, and creative problem-solving  
+- ✨ I enjoy designing sleek UI and building functional apps  
+- 📬 Reach me at: **ishitapatil323@gmail.com**  
+- 🔗 Connect with me on LinkedIn:  
+  https://www.linkedin.com/in/ishita-patil-931596363  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 **Socials**
+<p>
+<a href="https://www.linkedin.com/in/ishita-patil-931596363"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ishitapatil323@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 **Tech Stack**
+
+### **Languages**
+![C](https://img.shields.io/badge/c-00599C?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-0175C2?style=plastic&logo=dart&logoColor=white)
+
+### **Web & App Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+
+### **Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 👀 Visitor Count
+<p align="center">
+ <img src="https://visitcount.itsvg.in/api?id=IshitaPatil&icon=0&color=0" />
+</p>
+
